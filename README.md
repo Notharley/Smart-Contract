@@ -69,7 +69,7 @@ To set up and run this project, you need the following installed on your machine
 5.Initialize and Run Gitpod:
 
 Commit your changes and push them to your GitHub repository.
-Open your GitHub repository in Gitpod by navigating to https://gitpod.io/#<your-repo-url>.
+Open your GitHub repository in Gitpod by navigating to https://notharley-smartcontract-f0ifhtt1sbs.ws-us114.gitpod.io
 
 6.Watch the Initialization:
 
