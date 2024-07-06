@@ -17,7 +17,7 @@ To set up and run this project, you need the following installed on your machine
 
 2.Github
 
-3.Gitpod (for an online development environment)
+3.Remix and Gitpod (for an online development environment)
 
 
 ### Executing program
