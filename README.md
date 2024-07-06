@@ -66,7 +66,7 @@ To set up and run this project, you need the following installed on your machine
     };
 
 
-5.Initialize and Run Gitpod:
+5.Initialize and Run Remix:
 
 Commit your changes and push them to your GitHub repository.
 Open your GitHub repository in Gitpod by navigating to https://notharley-smartcontract-f0ifhtt1sbs.ws-us114.gitpod.io
